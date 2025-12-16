@@ -21,7 +21,7 @@ DATA ANALYST | RESEARCH & BUSINESS INTELLIGENCE
 
 ---
 
-## 👨🏽‍💻 ABOUT ME 
+### 👨🏽‍💻 ABOUT ME 
 
 Hi there 👋🏽 
 I’m James Quarshie. I am a **data analyst and research professional** with hands-on experience across the full data lifecycle — from **survey design** and **digital data collection** to **statistical analysis** and **insight generation**. My work sits at the intersection of **research**, **business intelligence**, and **development practice**, where evidence is used to inform decisions, shape policy, and improve outcomes.
@@ -32,7 +32,7 @@ Beyond tools, I care about data quality, methodological rigor, and practical rel
 
 ---
 
-## 📊 DATA SKILLS 
+### 📊 DATA SKILLS 
 
 | Category                               | Skills & Techniques                                                                                                                                   |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,7 +47,7 @@ Beyond tools, I care about data quality, methodological rigor, and practical rel
 
 ---
 
-## 📂 FEATURED PROJECTS
+### 📂 FEATURED PROJECTS
 
 | Thumbnail | Project Title | Description | Repository |
 |-----------|---------------|-------------|------------|
@@ -57,28 +57,26 @@ Beyond tools, I care about data quality, methodological rigor, and practical rel
 
 ---
 
-## 🛠️ TOOLS & TECH STACK
+### 🛠️ TOOLS & TECH STACK
 
 - **Tools:** STATA, Python, SQL, R (basic) 
-- **Data & Analysis:** Pandas, NumPy, Jupyter, Excel  
+- **Data & Analysis:** Pandas, NumPy, Seaborn, Jupyter, Excel  
 - **Visualization:** Matplotlib, Seaborn  
-- **Workflow:** Git, GitHub, Conda, VS Code  
+- **Workflow:** Git, GitHub, Conda, VS Code, Pystata 
 - **Research:** Survey analysis, impact evaluation support, econometric analysis
 - **Data Management** STATA, Excel, Google Sheets, SQL
 
 ---
 
-## 🔭 CURRENTLY WORKING ON
-- Building Python projects for data analysis & automation
-- Organizing research workflows using reproducible code
-- Developing a strong data & analytics portfolio on GitHub
+### 🔭 CURRENTLY WORKING ON
+- I am currently working on a research project, that leverages the Ghana Socioeconomic Panel Survey (Waves 1 - 4) explore farming household's livelihood and coping capacity in times of agricultural shocks (i.e., climate, social, and market shocks). My objective for this project is building econometric models using Ghana Socioeconomic Panel Survey data to analyze how non-farm income diversification impacts household resilience and prevents asset depletion after agricultural shocks. Read more in my research concept paper [here](https://checkthislaterjkquarshie.com).
 
 ---
 
-## 📫 WORK WITH ME
+### 📫 WORK WITH ME
 - 💼 LinkedIn: https://linkedin.com/in/jkquarshie
 - 📧 Email: jamescquarshie@gmail.com
-- 📍 Ghana | Open to remote work.
+- 📍  Remote | GMT +0 | Open to remote work.
 - 🌍 Working across development, research & data-driven projects
 
 ---
